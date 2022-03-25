@@ -32,8 +32,7 @@ int main()
     font.loadFromFile("walkthemoon.ttf");
     scoreText.setFont(font);
     scoreText.setString("Score: 0");
-    //scoreText.setCharacterSize() 
-
+    //scoreText.setCharacterSize()
     scoreText.setFillColor(sf::Color::Black);
     //player.setTexture(&playerTexture);
     sf::Sprite sprite;
