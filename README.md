@@ -6,4 +6,4 @@ the scene:
 ![image](https://user-images.githubusercontent.com/78519376/160066183-c1cc830a-329d-4736-9b7f-803316dfb9b0.png)
 
 jumping: 
-https://im4.ezgif.com/tmp/ezgif-4-2fe7964d8a.gif
+![Alt Text](https://im4.ezgif.com/tmp/ezgif-4-2fe7964d8a.gif)
